@@ -6,11 +6,11 @@ O projeto Maze se trata de um algoritmo capaz de encontrar soluções para labir
 
 Acesse a pasta do projeto:
 ```
-$ cd list
+$ cd Maze
 ```
 Execute o compile.sh
 ```
-list/ $ ./compile.sh
+Maze/ $ ./compile.sh
 ```
 Execute o arquivo .o gerado passando um arquivo como argumento (arquivo que contém o labirinto):
 ```
